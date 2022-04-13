@@ -1,0 +1,7 @@
+{
+  "name": "getTT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
